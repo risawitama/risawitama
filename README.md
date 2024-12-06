@@ -16,9 +16,8 @@
 </div>
 
 ### 💼 Hubungi Saya
-- [![Static Badge](https://img.shields.io/badge/_t.me%2FRisaWitama_-white?style=flat-square&logo=telegram&label=Telegram&labelColor=white&color=%2326A5E4)](https://t.me/RisaWitama)
-- [![GitHub](https://img.shields.io/github/follow/risawitama?style=social)](https://github.com/risawitama)
-- [![X (formerly Twitter)](https://img.shields.io/twitter/follow/ardiirsw_?style=social)](https://x.com/ardiirsw_)
+- [![Telegram](https://img.shields.io/badge/_t.me%2FRisaWitama_-white?style=flat-square&logo=telegram&label=Telegram&labelColor=white&color=%2326A5E4)](https://t.me/RisaWitama)
+- [![X (formerly Twitter](https://img.shields.io/badge/_x.com%2Fardiirsw__-grey?style=flat-square&logo=x&logoColor=white&label=X%20or%20Twitter&labelColor=grey&color=white)](https://x.com/ardiirsw_)
 - [![Instagram](https://img.shields.io/instagram/follow/ardiirsw_?style=social)](https://instagram.com/ardiirsw_)
 
 ---
