@@ -11,15 +11,15 @@
 
 ### ✨ Statistik GitHub Saya
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=risawitama&show_icons=true&hide_border=true&count_private=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risawitama&layout=compact&theme=radical" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=risawitama&show_icons=true&hide_border=true&count_private=true&theme=radical" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risawitama&layout=compact&theme=radical" />
 </div>
 
 ### 💼 Hubungi Saya
 - [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/risawitama)
-- [![GitHub](https://img.shields.io/badge/GitHub-Profile-%23181717?style=flat&logo=github)](https://github.com/risawitama)
-- [![Twitter](https://img.shields.io/badge/Twitter-Follow-%231DA1F2?style=flat&logo=twitter)](https://twitter.com/ardiirsw_)
-- [![Instagram](https://img.shields.io/badge/Instagram-Follow-%23E4405F?style=flat&logo=instagram)](https://instagram.com/ardiirsw_)
+- [![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github)](https://github.com/risawitama)
+- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=flat&logo=twitter)](https://twitter.com/ardiirsw_)
+- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram)](https://instagram.com/ardiirsw_)
 
 ---
 
