@@ -1,5 +1,5 @@
-# 👋 Halo, Saya [Risa Witama]!
-- kalian bisa memanggil Risa, bro, atau apapun senyaman kalian saja 😄.
+# 👋 Halo, Saya [Risa]!
+- Panggil saja, Risa, bro, atau apapun senyaman kalian saja 😄.
 
 ### 🔭 Apa yang Saya Kerjakan?
 - 🌟 Saat ini saya sedang [mempelajari github bersama ChatGPT].
