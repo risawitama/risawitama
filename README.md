@@ -6,7 +6,7 @@
 
 ### ✨ Statistik
 <div>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=risawitama&show_icons=true&hide_border=true&count_private=true&theme=radical" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=risawitama&show_icons=true&count_private=true&theme=radical" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risawitama&layout=compact&theme=radical" />
 </div>
 
