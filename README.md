@@ -16,10 +16,10 @@
 </div>
 
 ### 💼 Hubungi Saya
-- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/risawitama)
-- [![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github)](https://github.com/risawitama)
-- ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/ardiirsw_?style=social&link=https%3A%2F%2Fx.com%2Fardiirsw_)
-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram)](https://instagram.com/ardiirsw_)
+- [![Telegram](https://img.shields.io/telegram/chat/RisaWitama?style=social)](https://t.me/RisaWitama)
+- [![GitHub](https://img.shields.io/github/follow/risawitama?style=social)](https://github.com/risawitama)
+- [![X (formerly Twitter)](https://img.shields.io/twitter/follow/ardiirsw_?style=social)](https://x.com/ardiirsw_)
+- [![Instagram](https://img.shields.io/instagram/follow/ardiirsw_?style=social)](https://instagram.com/ardiirsw_)
 
 ---
 
