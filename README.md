@@ -1,5 +1,5 @@
 # 👋 Halo, Saya [Risa]!
-- Panggil saja, Risa, bro, atau apapun senyaman kalian saja 😄.
+- Panggil saja: Risa, bro, atau apapun senyaman kalian saja 😄.
 
 ### 🔭 Apa yang Saya Kerjakan?
 - 🌟 Saat ini saya sedang [mempelajari github bersama ChatGPT].
@@ -18,7 +18,7 @@
 ### 💼 Hubungi Saya
 - [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/risawitama)
 - [![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github)](https://github.com/risawitama)
-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=flat&logo=twitter)](https://twitter.com/ardiirsw_)
+- ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/ardiirsw_?style=social&link=https%3A%2F%2Fx.com%2Fardiirsw_)
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram)](https://instagram.com/ardiirsw_)
 
 ---
