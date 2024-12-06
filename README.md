@@ -17,8 +17,8 @@
 
 ### 💼 Hubungi Saya
 - [![Telegram](https://img.shields.io/badge/_@RisaWitama_-white?style=flat-square&logo=telegram&labelColor=white&color=%2326A5E4)](https://t.me/RisaWitama)
-- [![X (formerly Twitter](https://img.shields.io/badge/_@ardiirsw_%20-grey?style=flat-square&logo=x&logoColor=white&labelColor=grey&color=white)](https://x.com/ardiirsw_)
-- [![Static Badge](https://img.shields.io/badge/_@ardiirsw_%20-white?style=flat-square&logo=instagram&logoColor=%23FF0069&labelColor=white&color=%23FF0069)](https://instagram.com/ardiirsw_)
+- [![X (formerly Twitter](https://img.shields.io/badge/_@ardiirsw__-grey?style=flat-square&logo=x&logoColor=white&labelColor=grey&color=white)](https://x.com/ardiirsw_)
+- [![Static Badge](https://img.shields.io/badge/_@ardiirsw__-white?style=flat-square&logo=instagram&logoColor=%23FF0069&labelColor=white&color=%23FF0069)](https://instagram.com/ardiirsw_)
 
 ---
 
