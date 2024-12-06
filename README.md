@@ -16,7 +16,7 @@
 </div>
 
 ### 💼 Hubungi Saya
-- [![Telegram](https://img.shields.io/telegram/chat/RisaWitama?style=social)](https://t.me/RisaWitama)
+- [![Telegram](https://img.shields.io/badge/_t.me%2FRisaWitama_-auto?style=flat&logo=telegram&logoSize=auto)](https://t.me/RisaWitama)
 - [![GitHub](https://img.shields.io/github/follow/risawitama?style=social)](https://github.com/risawitama)
 - [![X (formerly Twitter)](https://img.shields.io/twitter/follow/ardiirsw_?style=social)](https://x.com/ardiirsw_)
 - [![Instagram](https://img.shields.io/instagram/follow/ardiirsw_?style=social)](https://instagram.com/ardiirsw_)
