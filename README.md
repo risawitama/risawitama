@@ -1,14 +1,8 @@
 # 👋 Halo!
 ### 🔭 Sekilas Tentang:
 - 🤓 Bro, lil-bro, atau apapun senyamannya kalian aja.
-- 🌟 Mempelajari github bersama ChatGPT.
+- 🌟 Mempelajari github bersama A.I.
 - 💡 Tertarik pada hal baru dan hobi bermalas-malasan.
-
-### ✨ Statistik
-<div>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=risawitama&show_icons=true&count_private=true&theme=radical" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risawitama&layout=compact&theme=radical" />
-</div>
 
 ### 💼 Hubungi
 - [![Telegram](https://img.shields.io/badge/_@RisaWitama_-white?style=flat-square&logo=telegram&labelColor=white&color=%2326A5E4)](https://t.me/RisaWitama)
